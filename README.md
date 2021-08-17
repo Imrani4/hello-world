@@ -1,3 +1,4 @@
 # hello-world
 First repository
-First Commit
+
+Hi, I'm Imran and this is my first time on GitHub
